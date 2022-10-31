@@ -14,9 +14,9 @@ public class Start
 		boolean repeat = true;
 		
 		System.out.println();
-		System.out.println("*******************************");
-		System.out.println("Welcome to IZAZ Super Market");
-		System.out.println("*******************************");
+		System.out.println("************************");
+		System.out.println("Welcome to JAIFS Super Market");
+		System.out.println("************************");
 		System.out.println();
 		
 		while(repeat)
